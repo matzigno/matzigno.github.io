@@ -1,0 +1,146 @@
+{
+  "title": "Matteo Zignani | Associate Professor of Computer Science",
+  "description": "Academic profile of Matteo Zignani, Associate Professor of Computer Science at the University of Milan. Research on network science, temporal graphs, graph machine learning, and socio-technical systems.",
+  "brand": "Matteo Zignani",
+  "profile": {
+    "name": "Matteo Zignani",
+    "initials": "MZ",
+    "role": "Associate Professor of Computer Science",
+    "department": "Department of Computer Science “Giovanni degli Antoni”",
+    "university": "University of Milan",
+    "location": "Milan, Italy",
+    "photo": "matteo_zignani_net.png",
+    "photo_alt": "Portrait of Matteo Zignani",
+    "email": "matteo.zignani@unimi.it",
+    "office": "Via Celoria 18, Milan",
+    "intro": "I study the structure and evolution of complex networks, with a focus on methods that combine network science, data mining, and machine learning on graphs.",
+    "bio": "My work addresses temporal, multilayer, and heterogeneous graphs in evolving socio-technical systems. Current research spans temporal graph learning, graph neural networks, graph evolution rules, and network motifs, with applications to online communities, Web3 ecosystems, knowledge graphs, mobility data, and creative uses of generative AI."
+  },
+  "quick_links": [
+    { "label": "Google Scholar", "url": "https://scholar.google.com/citations?user=6p9cPxAAAAAJ&hl=en" },
+    { "label": "DBLP", "url": "https://dblp.org/pid/15/8929" },
+    { "label": "ORCID", "url": "https://orcid.org/0000-0002-4808-4106" },
+    { "label": "University profile", "url": "https://www.unimi.it/en/ugov/person/matteo-zignani" },
+    { "label": "Download CV", "url": "https://work.unimi.it/chiedove/cv/matteo_zignani.pdf" }
+  ],
+  "metrics": [
+    { "value": "19", "label": "h-index", "detail": "Google Scholar" },
+    { "value": "1,408", "label": "citations", "detail": "Google Scholar" },
+    { "value": "2024–", "label": "associate professor", "detail": "University of Milan" }
+  ],
+  "research": [
+    {
+      "title": "Temporal graph learning",
+      "description": "Representation learning and forecasting methods for dynamic networks, including link prediction and explainability."
+    },
+    {
+      "title": "Web3 socio-economic systems",
+      "description": "Graph-based analysis of blockchain social platforms, stablecoin ecosystems, user migration, and anomalous behaviour."
+    },
+    {
+      "title": "Heterogeneous knowledge graphs",
+      "description": "Temporal and biomedical knowledge graphs for forecasting, representation learning, and data-driven discovery."
+    },
+    {
+      "title": "Human mobility and social behaviour",
+      "description": "Large-scale analysis of mobility, proximity, financial, and platform data through temporal and multilayer networks."
+    }
+  ],
+  "publications": [
+    {
+      "year": "2026",
+      "title": "Tensor factorization for temporal knowledge graph forecasting",
+      "authors": "Manuel Dileo, Pasquale Minervini, Matteo Zignani, and Sabrina Gaito",
+      "venue": "Neurocomputing",
+      "url": "https://dblp.org/rec/journals/ijon/DileoMZG26"
+    },
+    {
+      "year": "2025",
+      "title": "User migration in blockchain-based online social networks through the lens of temporal node representation shift",
+      "authors": "Manuel Dileo and Matteo Zignani",
+      "venue": "Machine Learning",
+      "url": "https://doi.org/10.1007/s10994-025-06905-y"
+    },
+    {
+      "year": "2025",
+      "title": "Exploring time-ordered triadic closure in online social networks",
+      "authors": "Alessia Galdeman, Cheick Tidiane Ba, Matteo Zignani, and Sabrina Gaito",
+      "venue": "ACM Transactions on the Web",
+      "url": "https://doi.org/10.1145/3732295"
+    },
+    {
+      "year": "2025",
+      "title": "RNA knowledge-graph analysis through homogeneous embedding methods",
+      "authors": "Francesco Torgano, Mauricio Soto Gomez, Matteo Zignani, Jessica Gliozzo, Emanuele Cavalleri, Marco Mesiti, Elena Casiraghi, and Giorgio Valentini",
+      "venue": "Bioinformatics Advances",
+      "url": "https://doi.org/10.1093/bioadv/vbaf109"
+    },
+    {
+      "year": "2025",
+      "title": "Network science meets AI: A converging frontier",
+      "authors": "Matteo Zignani, Fragkiskos D. Malliaros, Ingo Scholtes, Roberto Interdonato, and Manuel Dileo",
+      "venue": "ESANN",
+      "url": "https://doi.org/10.14428/esann/2025.ES2025-28"
+    },
+    {
+      "year": "2024",
+      "title": "Temporal graph learning for dynamic link prediction with text in online social networks",
+      "authors": "Manuel Dileo, Matteo Zignani, and Sabrina Gaito",
+      "venue": "Machine Learning",
+      "url": "https://doi.org/10.1007/s10994-023-06475-x"
+    }
+  ],
+  "projects": [
+    {
+      "period": "2023–2026",
+      "name": "AWESOME",
+      "subtitle": "Analysis framework for Web3 Social Media",
+      "description": "Scientific responsibility for network modelling and mining of blockchain-based social media through temporal heterogeneous graphs."
+    },
+    {
+      "period": "2023–2026",
+      "name": "SERICS",
+      "subtitle": "Security and Rights in CyberSpace",
+      "description": "Research on AI and machine learning methods for data protection, selective data sharing, and governance-oriented scenarios."
+    },
+    {
+      "period": "2022–2026",
+      "name": "CN3",
+      "subtitle": "National Center for Gene Therapy and Drugs based on RNA Technology",
+      "description": "Knowledge graphs and graph representation learning for RNA drug analysis and target prioritisation."
+    },
+    {
+      "period": "2024–2025",
+      "name": "GPTheatre",
+      "subtitle": "Generative AI for Humanities",
+      "description": "Design and implementation of LLM-based interaction for a multimodal theatre experiment, including iterative prompt improvement."
+    }
+  ],
+  "teaching": [
+    { "period": "2025–", "course": "Machine Learning on Graphs", "programme": "MSc in Computer Science" },
+    { "period": "2023–", "course": "Network Science", "programme": "MSc in Data Science for Economics" },
+    { "period": "2020–", "course": "Social Media Mining", "programme": "BSc in Digital Communication" },
+    { "period": "2019–", "course": "Foundations of Digital Social Media", "programme": "BSc in Digital Communication" },
+    { "period": "2019–", "course": "Python Programming Lab", "programme": "Master in Digital Humanities" }
+  ],
+  "career": [
+    { "period": "2024–present", "role": "Associate Professor", "institution": "University of Milan" },
+    { "period": "2021–2024", "role": "Assistant Professor (RTD-B)", "institution": "University of Milan" },
+    { "period": "2019–2021", "role": "Assistant Professor (RTD-A)", "institution": "University of Milan" },
+    { "period": "2014–2018", "role": "Postdoctoral Research Fellow", "institution": "University of Milan" },
+    { "period": "2011–2014", "role": "PhD in Computer Science", "institution": "University of Milan" }
+  ],
+  "service": [
+    "Guest Editor for Applied Network Science, Complexity, and Social Network Analysis and Mining.",
+    "Publication Chair for Complex Networks conferences from 2016 to 2026.",
+    "Program Chair for AOC 2016 and workshops at CCS 2020, CCS 2021, and ECML/PKDD 2023.",
+    "Reviewer and programme committee member for journals and conferences in network science, data mining, and machine learning."
+  ],
+  "awards": [
+    "Best Runner-Up Paper Award, ACM GoodIT 2021",
+    "Future Internet Travel Award, ICWSM 2019",
+    "Best Poster Award, Complex Networks 2017",
+    "Elsevier Outstanding Reviewer, Computer Communications 2014"
+  ],
+  "footer": "© 2026 Matteo Zignani"
+}
